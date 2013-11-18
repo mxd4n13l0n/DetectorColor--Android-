@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Detector de Color</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_select">Selecciona una imagen</string>
+</resources>
